@@ -1,5 +1,5 @@
 # Olá, bem-vindo(a)! 👋
-• 🤠 Me chamo Matheus, estudante de desenvolvimento front-end<br>
+• 🤠 Me chamo Matheus, sou estudante de desenvolvimento front-end<br>
 • 👶 Atualmente estou estudando Js, React e Tailwind<br>
 • 🕷 Tentando ser melhor 🕸<br>
 

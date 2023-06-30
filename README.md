@@ -5,7 +5,7 @@
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmatezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>          
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=dark&include_all_commits=true&count_private=false&layout=compact"/>          
 </div>
 
 <div style="display: inline-block;">

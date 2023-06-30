@@ -4,8 +4,8 @@
 • 🕷 Tentando ser melhor 🕸<br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmatezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=dark&include_all_commits=true&count_private=false&layout=compact"/>          
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmatezz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true&bg_color=000000&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&text_color=FFFFFF"/>
 </div>
 
 <div style="display: inline-block;">

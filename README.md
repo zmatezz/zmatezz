@@ -1,3 +1,5 @@
+<div align="center">
+
 # Olá, bem-vindo(a)! 👋
 • 🤠 Me chamo Matheus, sou estudante de desenvolvimento front-end<br>
 • 👶 Atualmente estou estudando Js, React e Tailwind<br>
@@ -18,6 +20,8 @@
 
 </div>
 
+
+ 
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus_gcosta) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omatheus-guedes) 
@@ -26,4 +30,7 @@
 
 
 
+ 
 [![](https://visitcount.itsvg.in/api?id=zmatezz&icon=5&color=12)](https://visitcount.itsvg.in)
+
+</div>

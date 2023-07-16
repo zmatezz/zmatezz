@@ -26,11 +26,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus_gcosta) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omatheus-guedes) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusguedescosta@gmail.com)
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/122845779/248419706-bae9d76b-7472-4d0a-8ac0-4515cae38ebb.png" alt="gif" align="right" width="80">
+
 
 
 
  
 [![](https://visitcount.itsvg.in/api?id=zmatezz&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/122845779/248419706-bae9d76b-7472-4d0a-8ac0-4515cae38ebb.png" alt="gif" width="40">
 
 </div>

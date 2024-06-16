@@ -1,37 +1,39 @@
-<div align="center">
+```csharp
+> hello, i'm matheus! Front-end Web Developer, 21yo
+```
 
-# Olá, bem-vindo(a)! 👋
-• 🤠 Me chamo Matheus, sou estudante de desenvolvimento front-end<br>
-• 👶 Atualmente estou estudando Js, React e Tailwind<br>
-• 🕷 Tentando ser melhor 🕸<br>
+```javascript
+const aboutMe = [
+  {
+    mission: "Solving real-world problems through lines of code",
+    technologies: [
+      {
+        languages: ["Javascript", "Typescript", "Python", "Node.js"],
+        libraries: ["React", "jQuery"],
+        frameworks: ["Next.js", "TailwindCSS"],
+        db: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Figma", "Git", "Sourcetree", "Docker", "Jira", "Bruno"],
+        architecture: ["container-pattern","composition-pattern","module-pattern","MVC"],
+      },
+    ],
+    hobbies: ["Gaming", "Coding", "Learning", "Motorcicle"],
+  },
+];
 
+```
+
+
+  
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmatezz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true&bg_color=000000&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&text_color=FFFFFF"/>
-</div>
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=zmatezz&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&bg_color=161b22&text_color=e6ede6"/>
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=161b22&text_color=e6ede6"/>
 
-<div style="display: inline-block;">
- <img style="height: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img style="height: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img style="height: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img style="height: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img style="height: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img style="height: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
+
+
+
+<a href="https://www.linkedin.com/in/omatheus-guedes/"><img src="https://img.shields.io/badge/-Matheus_Costa-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 
- 
-##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omatheus-guedes) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusguedescosta@gmail.com)
-
-
-
-
- 
-[![](https://visitcount.itsvg.in/api?id=zmatezz&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/122845779/248419706-bae9d76b-7472-4d0a-8ac0-4515cae38ebb.png" alt="gif" width="40">
-
-</div>
+<p align="center">Check out my repos ⬇</p>

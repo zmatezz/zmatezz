@@ -1,5 +1,6 @@
 ```csharp
-> hello, i'm matheus! Front-end Web Developer, 21yo
+> hello, i'm matheus! 
+- Front-end Web Developer, 21yo
 ```
 
 ```javascript

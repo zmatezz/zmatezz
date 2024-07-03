@@ -27,7 +27,6 @@ const aboutMe = [
   
 <div align="center">
  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=zmatezz&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&bg_color=161b22&text_color=e6ede6"/>
-  <a align='center' href="https://www.linkedin.com/in/omatheus-guedes/"><img src="https://img.shields.io/badge/-Matheus_Costa-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmatezz&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=161b22&text_color=e6ede6"/>
 
 
@@ -37,5 +36,6 @@ const aboutMe = [
 
 </div>
 
+  <a align='center' href="https://www.linkedin.com/in/omatheus-guedes/"><img src="https://img.shields.io/badge/-Matheus_Costa-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <p align="center">Check out my repos ⬇</p>

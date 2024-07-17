@@ -14,7 +14,7 @@ const aboutMe = [
         frameworks: ["Next.js", "TailwindCSS"],
         db: ["MongoDB", "MySQL", "PostgreSQL"],
         tools: ["Figma", "Git", "Sourcetree", "Docker", "Jira", "Bruno"],
-        architecture: ["container-pattern","composition-pattern","module-pattern","MVC"],
+        architecture: ["container-pattern","composition-pattern"],
       },
     ],
     hobbies: ["Gaming", "Coding", "Learning", "Motorcicle"],
